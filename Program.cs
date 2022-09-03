@@ -79,8 +79,3 @@ namespace picacomic
 
     }
 }
-
-
-
-
-
